@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61a2b8b2eef1507488273e080fcae2b0, type: 3}
+  m_Name: Dino
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: Dino
+  <DialogueGroups>k__BackingField:
+    list:
+    - Key: {fileID: 11400000, guid: 067b822cfce124f40b46ae173c1de3e1, type: 2}
+      Value:
+      - {fileID: 11400000, guid: bdbec02c820b64e44a3ec2f837609c73, type: 2}
+      - {fileID: 11400000, guid: f0e3aa67540c35049baca9d9420ec739, type: 2}
+      - {fileID: 11400000, guid: 4535cc71ba018354bb3c05f289169dc8, type: 2}
+      - {fileID: 11400000, guid: 340fc5328104e594ba6f0fb1b4f50570, type: 2}
+    - Key: {fileID: 11400000, guid: 8578f2139436fc64c9589c2f6130fc9d, type: 2}
+      Value:
+      - {fileID: 11400000, guid: 4cdd101f84c5b5844af0d1274b18710f, type: 2}
+      - {fileID: 11400000, guid: c893309a34d23a14ea0394dd8e6dd8b6, type: 2}
+  <UngroupedDialogues>k__BackingField:
+  - {fileID: 11400000, guid: d087e66e134c0f44f8dda81c741e132e, type: 2}
+  - {fileID: 11400000, guid: cb5ccf29d5e63a24ab77eba519eb0b04, type: 2}
+  - {fileID: 11400000, guid: 280dbc143617af146a3e331690bd0ecc, type: 2}

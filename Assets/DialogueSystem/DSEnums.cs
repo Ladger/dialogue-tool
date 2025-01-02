@@ -15,6 +15,8 @@ namespace DS.Enumerations
         Dialogue,
         Vendor,
         Quest,
-        Purchase
+        Purchase,
+        EventSelector,
+        SecondTalk
     }
 }
