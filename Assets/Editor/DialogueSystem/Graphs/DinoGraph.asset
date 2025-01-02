@@ -16,7 +16,7 @@ MonoBehaviour:
   <Groups>k__BackingField:
   - <ID>k__BackingField: 0f259cbb-ee39-4a9d-bc0b-088f93d54cfd
     <Name>k__BackingField: DinosDepression
-    <Position>k__BackingField: {x: 135.2, y: -67.2}
+    <Position>k__BackingField: {x: 135.2, y: -67.200005}
   - <ID>k__BackingField: a7b96f4d-6a57-49e9-9b61-716b1ffa0dd0
     <Name>k__BackingField: DinosConfidance
     <Position>k__BackingField: {x: 122.4, y: 647.2}
@@ -38,23 +38,11 @@ MonoBehaviour:
     <Text>k__BackingField: Life is so cruel nobody loves me. Im gonna die alone...
     <Choices>k__BackingField:
     - <Text>k__BackingField: Next Dialogue
-      <NodeID>k__BackingField: 03d29237-6c7f-40f2-9315-dbfec6b54344
+      <NodeID>k__BackingField: 5e729c9f-a6cf-4519-a736-7f2aa752dc0e
     <GroupID>k__BackingField: 0f259cbb-ee39-4a9d-bc0b-088f93d54cfd
     <NodeType>k__BackingField: 0
     <DialogueType>k__BackingField: 0
     <Position>k__BackingField: {x: 160.8, y: 59.2}
-  - <ID>k__BackingField: 03d29237-6c7f-40f2-9315-dbfec6b54344
-    <Name>k__BackingField: 2
-    <Text>k__BackingField: You don't love me either, right?
-    <Choices>k__BackingField:
-    - <Text>k__BackingField: I love you
-      <NodeID>k__BackingField: 4daddbe8-7ad9-46d6-aeda-6b6ce218598c
-    - <Text>k__BackingField: Yes, you are ugly
-      <NodeID>k__BackingField: 80559b1d-0b91-4704-84f5-56e82b4437f8
-    <GroupID>k__BackingField: 0f259cbb-ee39-4a9d-bc0b-088f93d54cfd
-    <NodeType>k__BackingField: 1
-    <DialogueType>k__BackingField: 0
-    <Position>k__BackingField: {x: 588, y: 59.2}
   - <ID>k__BackingField: 4daddbe8-7ad9-46d6-aeda-6b6ce218598c
     <Name>k__BackingField: 3
     <Text>k__BackingField: Really?! Thank you!!!!
@@ -115,6 +103,28 @@ MonoBehaviour:
     <NodeType>k__BackingField: 0
     <DialogueType>k__BackingField: 0
     <Position>k__BackingField: {x: 481.6, y: 428}
+  - <ID>k__BackingField: 03d29237-6c7f-40f2-9315-dbfec6b54344
+    <Name>k__BackingField: 2
+    <Text>k__BackingField: You don't love me either, right?
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: I love you
+      <NodeID>k__BackingField: 4daddbe8-7ad9-46d6-aeda-6b6ce218598c
+    - <Text>k__BackingField: Yes, you are ugly
+      <NodeID>k__BackingField: 80559b1d-0b91-4704-84f5-56e82b4437f8
+    <GroupID>k__BackingField: 0f259cbb-ee39-4a9d-bc0b-088f93d54cfd
+    <NodeType>k__BackingField: 1
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 707.2, y: 59.2}
+  - <ID>k__BackingField: 5e729c9f-a6cf-4519-a736-7f2aa752dc0e
+    <Name>k__BackingField: New
+    <Text>k__BackingField: Testing
+    <Choices>k__BackingField:
+    - <Text>k__BackingField: Next Dialogue
+      <NodeID>k__BackingField: 03d29237-6c7f-40f2-9315-dbfec6b54344
+    <GroupID>k__BackingField: 0f259cbb-ee39-4a9d-bc0b-088f93d54cfd
+    <NodeType>k__BackingField: 0
+    <DialogueType>k__BackingField: 0
+    <Position>k__BackingField: {x: 481.6, y: 212}
   <OldGroupNames>k__BackingField:
   - DinosDepression
   - DinosConfidance
@@ -127,9 +137,10 @@ MonoBehaviour:
     - Key: DinosDepression
       Value:
       - 1
-      - 2
       - 3
       - 4
+      - 2
+      - New
     - Key: DinosConfidance
       Value:
       - 7
