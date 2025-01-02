@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 61a2b8b2eef1507488273e080fcae2b0, type: 3}
+  m_Name: aksel
+  m_EditorClassIdentifier: 
+  <FileName>k__BackingField: aksel
+  <DialogueGroups>k__BackingField:
+    list: []
+  <UngroupedDialogues>k__BackingField:
+  - {fileID: 11400000, guid: b823172c9f7024e4dac3a47e4fe86058, type: 2}
+  - {fileID: 11400000, guid: 7ec38e6d4ab2fbd45a7f5100d9189027, type: 2}
