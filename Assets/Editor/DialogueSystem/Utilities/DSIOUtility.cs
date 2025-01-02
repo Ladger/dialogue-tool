@@ -242,7 +242,7 @@ namespace DS.Utilities
             DSGroupSaveData groupData = new DSGroupSaveData()
             {
                 ID = group.ID,
-                Name = group.name,
+                Name = group.title,
                 Position = group.GetPosition().position
             };
 

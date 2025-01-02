@@ -13,7 +13,10 @@ MonoBehaviour:
   m_Name: TestGraph
   m_EditorClassIdentifier: 
   <FileName>k__BackingField: Test
-  <Groups>k__BackingField: []
+  <Groups>k__BackingField:
+  - <ID>k__BackingField: e7630aca-2168-450b-aa41-0e7af026f966
+    <Name>k__BackingField: dsadas
+    <Position>k__BackingField: {x: 541.0148, y: 236.03981}
   <Nodes>k__BackingField:
   - <ID>k__BackingField: c1a9be57-0cbd-4f3b-b94e-bec87e1cb5ea
     <Name>k__BackingField: DialogueName
@@ -25,7 +28,8 @@ MonoBehaviour:
     <NodeType>k__BackingField: 0
     <DialogueType>k__BackingField: 0
     <Position>k__BackingField: {x: 54.4, y: 49.600002}
-  <OldGroupNames>k__BackingField: []
+  <OldGroupNames>k__BackingField:
+  - dsadas
   <OldUngroupedNodeNames>k__BackingField:
   - DialogueName
   <OldGroupedNodeNames>k__BackingField:
