@@ -17,6 +17,6 @@ Linked List Creator
 Dialogue Player
 
 The example usage video of the tool:
-https://www.youtube.com/watch?v=Lb-6gST8R8g
+[https://www.youtube.com/watch?v=Lb-6gST8R8g](https://youtu.be/4mbWdqlAfz0)
 
 Thanks to IndieWafflus is helped me along the developing the tool.
